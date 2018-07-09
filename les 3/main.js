@@ -61,8 +61,6 @@ function totalPrice(){
 			continue;
 		}
 		total = total + basket[i].price;
-
-		
 	}
 	return total;
 }
